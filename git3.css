@@ -913,12 +913,12 @@ hr {
 	}
 }
 .site-header-nav {
-	float:left;
+	float:right;
 	margin-bottom:0
 }
 .site-header-nav .nav-item {
 	position:relative;
-	float:left;
+	float:right;
 	padding-top:9px;
 	padding-bottom:9px;
 	line-height:20px;
